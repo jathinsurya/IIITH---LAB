@@ -1,2 +1,2 @@
-# My Project Title
-This is my first project on GitHub.
+# IIIT Hyderabad AIML 
+all my assignments are here
